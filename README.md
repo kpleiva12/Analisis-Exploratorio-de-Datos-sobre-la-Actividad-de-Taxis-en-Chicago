@@ -1,4 +1,4 @@
-# Analisis-Exploratorio-de-Datos-sobre-la-Actividad-de-Taxis-en-Chicago
+# Análisis-Exploratorio-de-Datos-sobre-la-Actividad-de-Taxis-en-Chicago
 Proyecto que analiza patrones de viajes en taxi mediante Python y SQL, incluyendo distribución de trayectos, desempeño por compañías y relación entre clima y duración de viajes. Incluye limpieza de datos, visualizaciones e hipótesis estadísticas.
 
 Se presenta en este repositorio un documento con el registro de las salidas obtenidas mediante SQL y un jupyter notebook con el código realizado con lenguaje python 
